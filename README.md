@@ -1,5 +1,5 @@
 # LifeAlert
-A Chrome extension that notifies if you are about to enter your login information onto a website for the first time.
+A Chrome extension that notifies if you are about to enter your login credentials onto a website for the first time.
 
 ![Alt text](./icon128.png "LifeAlert")
 <hr>
