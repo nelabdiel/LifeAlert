@@ -1,7 +1,7 @@
 # LifeAlert
 A Chrome extension that notifies if you are about to enter your login credentials onto a website for the first time.
 
-![Alt text](./icon128.png "LifeAlert")
+![Alt text](./icon.png "LifeAlert")
 <hr>
 
 This idea occurred to me as a way to prevent users to enter their credentials into cloned websites. A website might look exactly like your bank or facebook and you don't realize that there might be something different in the address bar but since you often visit your bank's website if you happen to be a site that looks like it but it not it will alert you with a pop up.
